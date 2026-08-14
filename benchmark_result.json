@@ -1,0 +1,15 @@
+{
+  "dataset": "/home/toanhsy_hrt_gmail_com/ml-benchmark/creditcard.csv",
+  "rows": 284807,
+  "features": 30,
+  "load_data_seconds": 1.9433,
+  "training_seconds": 1.7188,
+  "best_iteration": 1,
+  "auc_roc": 0.902379,
+  "accuracy": 0.977301,
+  "f1_score": 0.1162,
+  "precision": 0.062271,
+  "recall": 0.867347,
+  "inference_latency_1_row_ms": 0.887181,
+  "inference_throughput_1000_rows_per_second": 901017.14
+}
